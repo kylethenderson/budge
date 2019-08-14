@@ -44,8 +44,6 @@ Frontend UI, server routing, and database queries:
 
 Kyle Henderson
 
-    https://github.com/kylethenderson
-
 Michael Ferlis
 
     https://github.com/michaelferlis
